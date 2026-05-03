@@ -1,4 +1,31 @@
-## Hi there 👋
+# Projects Portfolio
+
+I build systems across security, distributed systems, and machine learning.
+
+---
+
+## Security Engineering
+- sentinel-proxy
+- self-healing-security-lab
+- zero-trust-identity-provider
+- xv6-security-lab
+
+---
+
+## Distributed Systems
+- lumenlog
+- distributed_passwords
+
+---
+
+## Machine Learning
+- numpy-mnist-nn
+- mlp-name-generator
+
+---
+
+## Backend Systems
+- vortex-backend
 
 <!--
 **blacAxe/blacAxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
