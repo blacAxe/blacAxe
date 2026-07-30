@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/black-axe-logo.png" width="650" alt="Black Axe">
+</p>
+
 # Omar Halane
 
 Software Engineer focused on security engineering, distributed systems, operating systems, embedded robotics, and machine learning. I enjoy building production-inspired systems from the ground up to understand how software, infrastructure, and hardware work together.
