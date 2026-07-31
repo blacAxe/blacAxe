@@ -20,11 +20,22 @@ I enjoy building production-inspired systems from the ground up to better unders
 
 # Featured Projects
 
-### Sentinel Platform
+<details>
+<summary><strong>Sentinel Platform</strong></summary>
 
 A distributed security engineering workspace composed of multiple services for authentication, reverse proxy protection, observability, malware analysis, infrastructure monitoring, and centralized management.
 
-Core repositories:
+```
+Sentinel Platform
+├── Sentinel Platform
+├── Sentinel OS
+├── Sentinel Proxy
+├── Zero Trust Identity Provider
+├── LumenLog
+└── VORTEX
+```
+
+Repositories
 
 - [Sentinel Platform](https://github.com/blacAxe/sentinel-platform-v1)
 - [Sentinel OS](https://github.com/blacAxe/sentinel-os-v1)
@@ -33,31 +44,49 @@ Core repositories:
 - [LumenLog](https://github.com/blacAxe/lumenlog)
 - [VORTEX](https://github.com/blacAxe/vortex)
 
----
+</details>
 
-### Atlas Robot
+<br>
+
+<details>
+<summary><strong>Atlas Robot</strong></summary>
 
 An autonomous robotics engineering project featuring custom Arduino firmware, multi-sensor navigation, obstacle avoidance, Wi-Fi telemetry, and a web-based monitoring dashboard.
 
-Repository:
+```
+Atlas Robot
+└── Atlas Robot V2
+```
+
+Repository
 
 - [Atlas Robot V2](https://github.com/blacAxe/atlas-robot-v2)
 
----
+</details>
 
-### Hardened xv6
+<br>
+
+<details>
+<summary><strong>Hardened xv6</strong></summary>
 
 A research-driven operating systems project extending the RISC-V xv6 kernel with auditing, memory randomization, access control, and integrity verification.
 
-Repository:
+```
+Hardened xv6
+└── xv6 Security Lab
+```
+
+Repository
 
 - [xv6 Security Lab](https://github.com/blacAxe/xv6-security-lab)
+
+</details>
 
 ---
 
 # Project Portfolio
 
-<details>
+<details open>
 <summary><strong>Security Engineering</strong></summary>
 
 | Repository | Description |
@@ -71,7 +100,7 @@ Repository:
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Distributed Systems</strong></summary>
 
 | Repository | Description |
@@ -82,7 +111,7 @@ Repository:
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Robotics & Embedded Systems</strong></summary>
 
 | Repository | Description |
@@ -91,7 +120,7 @@ Repository:
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Machine Learning</strong></summary>
 
 | Repository | Description |
