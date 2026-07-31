@@ -27,8 +27,8 @@ A distributed security engineering workspace composed of multiple services for a
 
 ```
 Sentinel Platform
-├── Sentinel Platform
 ├── Sentinel OS
+├── Sentinel Platform
 ├── Sentinel Proxy
 ├── Zero Trust Identity Provider
 ├── LumenLog
@@ -37,8 +37,8 @@ Sentinel Platform
 
 Repositories
 
-- [Sentinel Platform](https://github.com/blacAxe/sentinel-platform-v1)
 - [Sentinel OS](https://github.com/blacAxe/sentinel-os-v1)
+- [Sentinel Platform](https://github.com/blacAxe/sentinel-platform-v1)
 - [Sentinel Proxy](https://github.com/blacAxe/sentinel-proxy)
 - [Zero Trust Identity Provider](https://github.com/blacAxe/sentinel-idp)
 - [LumenLog](https://github.com/blacAxe/lumenlog)
@@ -91,8 +91,8 @@ Repository
 
 | Repository | Description |
 |------------|-------------|
-| [Sentinel Platform](https://github.com/blacAxe/sentinel-platform-v1) | Distributed security platform |
 | [Sentinel OS](https://github.com/blacAxe/sentinel-os-v1) | Security-focused operating system workspace |
+| [Sentinel Platform](https://github.com/blacAxe/sentinel-platform-v1) | Distributed security platform |
 | [Sentinel Proxy](https://github.com/blacAxe/sentinel-proxy) | Reverse proxy and web application firewall |
 | [Zero Trust Identity Provider](https://github.com/blacAxe/sentinel-idp) | Authentication and identity service |
 | [Self-Healing Security Lab](https://github.com/blacAxe/self-healing-security-lab) | Interactive security sandbox |
@@ -105,7 +105,6 @@ Repository
 
 | Repository | Description |
 |------------|-------------|
-| [Sentinel Platform](https://github.com/blacAxe/sentinel-platform-v1) | Distributed platform orchestration |
 | [LumenLog](https://github.com/blacAxe/lumenlog) | Logging and observability pipeline |
 | [VORTEX](https://github.com/blacAxe/vortex) | Event-driven backend infrastructure |
 
@@ -120,7 +119,7 @@ Repository
 
 </details>
 
-<details open>
+<!-- <details open>
 <summary><strong>Machine Learning</strong></summary>
 
 | Repository | Description |
@@ -128,7 +127,7 @@ Repository
 | NumPy MNIST Neural Network | Neural network built from scratch using NumPy |
 | MLP Name Generator | Character-level neural network experiments |
 
-</details>
+</details> -->
 
 ---
 
