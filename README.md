@@ -21,6 +21,24 @@ I enjoy building production-inspired systems from the ground up to better unders
 # Featured Projects
 
 <details>
+<summary><strong>Atlas Robot</strong></summary>
+
+An autonomous robotics engineering project featuring custom Arduino firmware, multi-sensor navigation, obstacle avoidance, Wi-Fi telemetry, and a web-based monitoring dashboard.
+
+```
+Atlas Robot
+└── Atlas Robot V2
+```
+
+Repository
+
+- [Atlas Robot V2](https://github.com/blacAxe/atlas-robot-v2)
+
+</details>
+
+<br>
+
+<details>
 <summary><strong>Sentinel Platform</strong></summary>
 
 A distributed security engineering workspace composed of multiple services for authentication, reverse proxy protection, observability, malware analysis, infrastructure monitoring, and centralized management.
@@ -49,24 +67,6 @@ Repositories
 <br>
 
 <details>
-<summary><strong>Atlas Robot</strong></summary>
-
-An autonomous robotics engineering project featuring custom Arduino firmware, multi-sensor navigation, obstacle avoidance, Wi-Fi telemetry, and a web-based monitoring dashboard.
-
-```
-Atlas Robot
-└── Atlas Robot V2
-```
-
-Repository
-
-- [Atlas Robot V2](https://github.com/blacAxe/atlas-robot-v2)
-
-</details>
-
-<br>
-
-<details>
 <summary><strong>Hardened xv6</strong></summary>
 
 A research-driven operating systems project extending the RISC-V xv6 kernel with auditing, memory randomization, access control, and integrity verification.
@@ -85,6 +85,15 @@ Repository
 ---
 
 # Project Portfolio
+
+<details open>
+<summary><strong>Robotics & Embedded Systems</strong></summary>
+
+| Repository | Description |
+|------------|-------------|
+| [Atlas Robot V2](https://github.com/blacAxe/atlas-robot-v2) | Autonomous robot with telemetry, navigation, and embedded firmware |
+
+</details>
 
 <details open>
 <summary><strong>Security Engineering</strong></summary>
@@ -107,15 +116,6 @@ Repository
 |------------|-------------|
 | [LumenLog](https://github.com/blacAxe/lumenlog) | Logging and observability pipeline |
 | [VORTEX](https://github.com/blacAxe/vortex) | Event-driven backend infrastructure |
-
-</details>
-
-<details open>
-<summary><strong>Robotics & Embedded Systems</strong></summary>
-
-| Repository | Description |
-|------------|-------------|
-| [Atlas Robot V2](https://github.com/blacAxe/atlas-robot-v2) | Autonomous robot with telemetry, navigation, and embedded firmware |
 
 </details>
 
