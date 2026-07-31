@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/blacAxe.png" width="650" alt="Black Axe">
+  <img src="assets/blacAxe2.png" width="650" alt="Black Axe">
 </p>
 
 # Omar Halane
