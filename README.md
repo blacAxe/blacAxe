@@ -4,53 +4,114 @@
 
 # Omar Halane
 
-Software Engineer focused on security engineering, distributed systems, operating systems, embedded robotics, and machine learning. I enjoy building production-inspired systems from the ground up to understand how software, infrastructure, and hardware work together.
+Software Engineer focused on security engineering, distributed systems, operating systems, embedded robotics, and machine learning.
+
+I enjoy building production-inspired systems from the ground up to better understand how software, infrastructure, networking, and hardware work together. Most of my work centers around designing complete systems rather than isolated applications.
 
 ---
 
-## Featured Systems
+## Table of Contents
+
+- [Featured Projects](#featured-projects)
+- [Project Portfolio](#project-portfolio)
+- [Current Interests](#current-interests)
+
+---
+
+# Featured Projects
 
 ### Sentinel Platform
-A distributed security platform composed of multiple backend services that work together to provide authentication, reverse proxy protection, observability, malware analysis, and real-time telemetry. The platform includes Sentinel Proxy, Zero Trust Identity Provider, LumenLog, VORTEX, and a web-based management console. :contentReference[oaicite:0]{index=0}
 
-### Atlas Robot
-A physical autonomous robotics platform combining custom Arduino firmware, multi-sensor obstacle avoidance, live telemetry, and a monitoring dashboard to explore embedded systems and autonomous navigation. :contentReference[oaicite:1]{index=1}
+A distributed security engineering workspace composed of multiple services for authentication, reverse proxy protection, observability, malware analysis, infrastructure monitoring, and centralized management.
 
-### Hardened xv6 Kernel
-A security-focused operating systems project extending the RISC-V xv6 kernel with kernel auditing, stack ASLR, access control, and integrity monitoring to explore low-level systems security. :contentReference[oaicite:2]{index=2}
+Core repositories:
+
+- [Sentinel Platform](https://github.com/blacAxe/sentinel-platform-v1)
+- [Sentinel OS](https://github.com/blacAxe/sentinel-os-v1)
+- [Sentinel Proxy](https://github.com/blacAxe/sentinel-proxy)
+- [Zero Trust Identity Provider](https://github.com/blacAxe/sentinel-idp)
+- [LumenLog](https://github.com/blacAxe/lumenlog)
+- [VORTEX](https://github.com/blacAxe/vortex)
 
 ---
 
-## Security Engineering
-- Sentinel Platform
-- Sentinel Proxy
-- Zero Trust Identity Provider
-- Self-Healing Security Lab
-- Hardened xv6 Kernel
+### Atlas Robot
 
-## Distributed Systems
-- LumenLog
-- VORTEX
-- Distributed Passwords
+An autonomous robotics engineering project featuring custom Arduino firmware, multi-sensor navigation, obstacle avoidance, Wi-Fi telemetry, and a web-based monitoring dashboard.
 
-## Robotics & Embedded Systems
-- Atlas Robot
+Repository:
 
-## Machine Learning
-- NumPy MNIST Neural Network
-- MLP Name Generatorex-backend
+- [Atlas Robot V2](https://github.com/blacAxe/atlas-robot-v2)
 
-<!--
-**blacAxe/blacAxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Hardened xv6
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A research-driven operating systems project extending the RISC-V xv6 kernel with auditing, memory randomization, access control, and integrity verification.
+
+Repository:
+
+- [xv6 Security Lab](https://github.com/blacAxe/xv6-security-lab)
+
+---
+
+# Project Portfolio
+
+<details>
+<summary><strong>Security Engineering</strong></summary>
+
+| Repository | Description |
+|------------|-------------|
+| [Sentinel Platform](https://github.com/blacAxe/sentinel-platform-v1) | Distributed security platform |
+| [Sentinel OS](https://github.com/blacAxe/sentinel-os-v1) | Security-focused operating system workspace |
+| [Sentinel Proxy](https://github.com/blacAxe/sentinel-proxy) | Reverse proxy and web application firewall |
+| [Zero Trust Identity Provider](https://github.com/blacAxe/sentinel-idp) | Authentication and identity service |
+| [Self-Healing Security Lab](https://github.com/blacAxe/self-healing-security-lab) | Interactive security sandbox |
+| [xv6 Security Lab](https://github.com/blacAxe/xv6-security-lab) | Hardened RISC-V xv6 kernel |
+
+</details>
+
+<details>
+<summary><strong>Distributed Systems</strong></summary>
+
+| Repository | Description |
+|------------|-------------|
+| [Sentinel Platform](https://github.com/blacAxe/sentinel-platform-v1) | Distributed platform orchestration |
+| [LumenLog](https://github.com/blacAxe/lumenlog) | Logging and observability pipeline |
+| [VORTEX](https://github.com/blacAxe/vortex) | Event-driven backend infrastructure |
+
+</details>
+
+<details>
+<summary><strong>Robotics & Embedded Systems</strong></summary>
+
+| Repository | Description |
+|------------|-------------|
+| [Atlas Robot V2](https://github.com/blacAxe/atlas-robot-v2) | Autonomous robot with telemetry, navigation, and embedded firmware |
+
+</details>
+
+<details>
+<summary><strong>Machine Learning</strong></summary>
+
+| Repository | Description |
+|------------|-------------|
+| NumPy MNIST Neural Network | Neural network built from scratch using NumPy |
+| MLP Name Generator | Character-level neural network experiments |
+
+</details>
+
+---
+
+# Current Interests
+
+- Security Engineering
+- Distributed Systems
+- Operating Systems
+- Embedded Systems
+- Robotics
+- Machine Learning
+
+---
+
+Thanks for visiting.
